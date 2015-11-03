@@ -1,4 +1,4 @@
-# SharePoint-Multiple-File-Download
+# SharePoint Multiple File Download (Bulk file/document download)
 This is a custom action for SharePoint 2013 that enables multiple file download as a zip file (Bulk file download)
 
 This is based on an existing SharePoint 2010 multi file download solution. Original solution can be found at <a href="http://www.deviantpoint.com/post/2010/05/08/sharepoint-2010-download-as-zip-file-custom-ribbon-action.aspx">SharePoint 2010 Download as Zip File Custom Ribbon Action</a>. Credit goes to the original developer Bart X. Tubalinal for his solution.
