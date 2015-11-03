@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4c5575b6-7123-4124-aa20-7af69ce53c86" solutionId="4c5575b6-7123-4124-aa20-7af69ce53c86" resetWebServer="false" sharePointProductVersion="15.0" name="BulkDownload" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="ICSharpCode.SharpZipLib.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="Assemblies\ICSharpCode.SharpZipLib.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="4ffd243f-bafb-4c63-94ac-e4a1965fdc0d" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="6edadf0c-18c7-458d-a7ca-3fb546c81ac5" />
+    <projectItemReference itemId="3fb48a30-5e3f-4a83-826f-c3ae636e6404" />
+  </projectItems>
+</package>
